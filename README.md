@@ -6,9 +6,7 @@ Amy Liu 21125117
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
-A choose-your-own-adventure game. Players read a short story scene, then decide what happens next by clicking a button. Their choice shapes the story.
-
-Using the mouse to click on the button to move the story forward along a different branch, and no two playthroughs are identical.
+A choose-your-own-adventure game. Players read a short story scene, then decide what happens next by clicking a button, and  move the story forward along a different branch. Player's choice shapes the story.
 
 **Opening the Chrome Console**
 
